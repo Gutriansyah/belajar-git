@@ -1,1 +1,2 @@
 ini adalah file4.txt
+feature 4
