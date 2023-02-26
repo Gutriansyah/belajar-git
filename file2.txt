@@ -2,3 +2,4 @@ menambah file 2.txt
 meruba file dua
 feature 2
 feature rebase
+feature merge-squash
