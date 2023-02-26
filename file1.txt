@@ -4,3 +4,4 @@ menambahkan feature satu
 feature c
 master
 master
+feature merge-squash
