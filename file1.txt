@@ -2,3 +2,4 @@ menambah file1.txt
 merubah file satu
 menambahkan feature satu
 feature c
+master
