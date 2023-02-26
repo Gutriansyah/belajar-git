@@ -1,3 +1,5 @@
 menambah file 2.txt
 meruba file dua
 feature 2
+feature a
+feature d

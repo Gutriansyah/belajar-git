@@ -1,4 +1,7 @@
 menambah file1.txt
 merubah file satu
 menambahkan feature satu
+feature 1
+feature a
+feature b
 feature c
